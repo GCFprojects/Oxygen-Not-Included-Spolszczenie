@@ -14,7 +14,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.THEY_DIED_DOING_WHAT_THEY_LOVED
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.THEY_DIED_DOING_WHAT_THEY_LOVED"
 msgid "They died doing what they loved."
-msgstr ""
+msgstr "Zmarł robiąc to co kochał."
 
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.TO_DIG_TO_MUSH_NO_MORE
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.TO_DIG_TO_MUSH_NO_MORE"
@@ -24,7 +24,7 @@ msgstr ""
 #. STRINGS.NAMEGEN.GRAVE.EPITAPHS.WHERE_ONE_ADVENTURE_ENDS_ANOTHER_BEGINS
 msgctxt "STRINGS.NAMEGEN.GRAVE.EPITAPHS.WHERE_ONE_ADVENTURE_ENDS_ANOTHER_BEGINS"
 msgid "Where one adventure ends, another begins."
-msgstr ""
+msgstr "Tam gdzie jedna przygoda ma swój koniec, inna się zaczyna."
 
 #. STRINGS.REGIONS.EXOSUITREGION.NAME
 msgctxt "STRINGS.REGIONS.EXOSUITREGION.NAME"
@@ -71,7 +71,7 @@ msgstr "Najnowsze technologie by wycisnąć jak najwięcej z przetworzonych mate
 #| msgid "Filtration Medium"
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
 msgid "Filtration"
-msgstr ""
+msgstr "Filtracja"
 
 #. STRINGS.RESEARCH.ADVANCEDPOWERREGULATION.DESC
 #| msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
@@ -85,7 +85,7 @@ msgstr ""
 #| msgid "Power Regulation"
 msgctxt "STRINGS.RESEARCH.ADVANCEDPOWERREGULATION.NAME"
 msgid "Advanced Power Regulation"
-msgstr ""
+msgstr "Zaawansowany Regulator Energii"
 
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
@@ -105,7 +105,7 @@ msgstr "Produkuj <style=\"food\">Żywność</style> poprzez opanowanie do perfek
 #. STRINGS.RESEARCH.FARMINGTECH.NAME
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.NAME"
 msgid "Farming"
-msgstr ""
+msgstr "Chodowla"
 
 #. STRINGS.RESEARCH.FINEDINING.DESC
 msgctxt "STRINGS.RESEARCH.FINEDINING.DESC"
@@ -194,7 +194,7 @@ msgstr "Nie wybrano badania"
 #. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED
 msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED"
 msgid "{0} also required"
-msgstr ""
+msgstr "{0} także wymagany"
 
 #. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED
 msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED"
@@ -224,7 +224,7 @@ msgstr "Regulacja Mocy"
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC"
 msgid "Unlock technologies to manage colony pressure and atmosphere."
-msgstr ""
+msgstr "Odblokuj technologię do zarządzania ciśnieniem i atmosferą w kolonii"
 
 #. STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME
 msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME"
